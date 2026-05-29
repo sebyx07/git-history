@@ -1,5 +1,10 @@
 # git-history
 
+> ⚠️ **This is just for fun.** The commit history in this repo is fake —
+> ~10,050 randomly generated, backdated commits spanning **1970 → 2170**
+> (50 per year). None of it is real work; it's a toy for playing with git
+> history and contribution graphs. Don't read anything into the dates.
+
 Bun + TypeScript script that backdates "fun" commits across one or more date
 ranges — handy for filling in a contribution graph. Purely for fun.
 
