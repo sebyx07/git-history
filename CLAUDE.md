@@ -104,3 +104,7 @@ bun --hot ./index.ts
 ```
 
 For more information, read the Bun API docs in `node_modules/bun-types/docs/**.mdx`.
+
+## Note
+
+Do not use git worktrees — work directly in this checkout. See `.claude/commands/feature.md` and `.claude/commands/planx.md`.
